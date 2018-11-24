@@ -22,10 +22,6 @@ Blog post: https://hackernoon.com/tackling-the-scalability-trilemma-1627fa3f6936
 
 Whitepaper: https://spacemesh.io/whitepaper1/
 
-### Thunderella
-
-"Open source implementation of a Fast and Scalable Blockchain (coming soon)" – [Rafael Pass](http://www.cs.cornell.edu/~rafael/)
-
 ### Starkware Industries
 
 Whitepaper: https://eprint.iacr.org/2018/046.pdf
@@ -33,3 +29,7 @@ Whitepaper: https://eprint.iacr.org/2018/046.pdf
 StarkWare will improve scalability and privacy in blockchains using STARK technology, providing cryptographic proofs that are zero-knowledge, succinct, transparent (no need for a trusted setup), and post-quantum secure.
 
 Notes: Solid team, solid investors
+
+### Thunderella
+
+"Open source implementation of a Fast and Scalable Blockchain (coming soon)" – [Rafael Pass](http://www.cs.cornell.edu/~rafael/)
