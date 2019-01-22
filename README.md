@@ -7,6 +7,12 @@ In order to keep up with emerging Distributed Ledger Technologies that are tryin
 
 Please open pull-requests for the projects you think that are worthy to be included here. If you think a project better be unlisted, consider opening an issue so that we could discuss the project's merits.
 
+### Algorand
+
+Whitepapers: https://www.algorand.com/docs/whitepapers/
+
+"Founded by cryptography pioneer and Turing award winner, Silvio Micali, Algorand solves the “blockchain trilemma” with a platform that delivers decentralization, scalability and security."
+
 ### Avalanche 
 
 Whitepaper: https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
